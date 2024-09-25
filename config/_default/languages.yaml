@@ -1,43 +1,21 @@
-# Default language (English)
+# Languages
+#   Create a section for each of your site's languages.
+#   Documentation: https://docs.hugoblox.com/reference/language/
+
+# Default language
 en:
   languageCode: en-us
-  title: "My Website"
   contentDir: content/en
-  menu:
-    main:
-      - name: "Home"
-        url: '/'
-        weight: 1
-      - name: "About"
-        url: '/about/'
-        weight: 2
 
+# Uncomment the lines below to configure your website in a second language.
 ko:
   languageCode: ko
   contentDir: content/ko
-  title: "내 웹사이트"
+  title: Chinese website title...
   params:
-    description: "이것은 한국어 사이트입니다."
+    description: Site description in Chinese...
   menu:
     main:
-      - name: "홈"
-        url: '/'
+      - name: 传
+        url: '#about'
         weight: 1
-      - name: "소개"
-        url: '/about/'
-        weight: 2
-
-ja:
-  languageCode: ja
-  contentDir: content/ja
-  title: "私のウェブサイト"
-  params:
-    description: "これは日本語のウェブサイトです。"
-  menu:
-    main:
-      - name: "ホーム"
-        url: '/'
-        weight: 1
-      - name: "私たちについて"
-        url: '/about/'
-        weight: 2

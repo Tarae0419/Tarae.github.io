@@ -133,7 +133,6 @@ skills:
         description: ''
         percent: 70
         icon: hero/film
-
 languages:
   - name: Korean
     percent: 100

@@ -108,7 +108,7 @@ skills:
       - name: Unity
         description: ''
         percent: 80
-        icon: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg" />
+        icon: devicon/unity
       - name: C++
         description: ''
         percent: 65
@@ -116,7 +116,7 @@ skills:
       - name: Unreal Engine
         description: ''
         percent: 40
-        icon: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original-wordmark.svg"
+        icon: devicon/unity
       - name: SQL
         description: ''
         percent: 40

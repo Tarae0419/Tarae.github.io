@@ -49,7 +49,7 @@ education:
   - area: 컴퓨터공학부
     institution: 전북대학교
     date_start: 2020-03-02
-    date_end: 재학
+    date_end: '재학'
     summary: |
       컴퓨터공학부에 재학 중이며 컴퓨터공학을 공부하고 있습니다.
     button:
@@ -58,7 +58,7 @@ education:
   - area: 회계학과(복수전공)
     institution: 전북대학교
     date_start: 2023-09-01
-    date_end: 재학
+    date_end: '재학'
     summary: |
       회계학과를 복수전공하여 회계학을 공부하고 있습니다.
   - area: BSc Artificial Intelligence

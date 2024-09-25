@@ -16,6 +16,9 @@ en:
     description: Site description in Chinese...
   menu:
     main:
-      - name: home
-        url: '#about'
+      - name: bio
+        url: '/authors/'
         weight: 1
+      - name: project
+        url: '/project/'
+        weight: 2

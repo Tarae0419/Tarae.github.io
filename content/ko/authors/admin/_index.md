@@ -116,7 +116,7 @@ skills:
       - name: Unreal Engine
         description: ''
         percent: 40
-        icon: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original-wordmark.svg" />
+        icon: <i class="devicon-unrealengine-original-wordmark"></i>
       - name: SQL
         description: ''
         percent: 40

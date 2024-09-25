@@ -1,7 +1,7 @@
 ---
-title: PyTorch
+title: 
 date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+external_link: https://github.com/Tarae-22/TextGame
 tags:
   - Hugo
   - Wowchemy

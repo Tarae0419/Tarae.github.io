@@ -104,15 +104,23 @@ skills:
       - name: C#
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+        - name: Unity
+        description: ''
+        percent: 80
+        icon: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg" />
       - name: C++
         description: ''
-        percent: 70
-        icon: code-bracket
+        percent: 65
+        icon: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+        - name: Unreal Engine
+        description: ''
+        percent: 40
+        icon: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original-wordmark.svg" />
       - name: SQL
         description: ''
         percent: 40
-        icon: circle-stack
+        icon: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'

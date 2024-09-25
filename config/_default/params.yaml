@@ -36,6 +36,8 @@ header:
     show_theme_chooser: true
     logo:
       filename: "introduce.svg"
+      width: 150
+      height: auto
 
 # Site footer
 footer:

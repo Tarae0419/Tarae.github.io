@@ -49,23 +49,18 @@ education:
   - area: 컴퓨터공학부
     institution: 전북대학교
     date_start: 2020-03-02
-    date_end: 2026-02-21
+    date_end: 재학
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      컴퓨터공학부에 재학 중이며 컴퓨터공학을 공부하고 있습니다.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: 회계학과(복수전공)
+    institution: 전북대학교
+    date_start: 2023-09-01
+    date_end: 재학
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      회계학과를 복수전공하여 회계학을 공부하고 있습니다.
   - area: BSc Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
@@ -154,7 +149,7 @@ awards:
     awarder: 박준영, 김제훈, 박민수
     icon: coursera
     summary: |
-      단풍잎 추출물이 잡초 방제 효과를 갖는지에 대하여 연구를 진행하였습니다. 가을에 버려지는 단풍잎을 모아 물과 에탄올에 추출한 뒤 잡초씨에 직접 물을주며 방제 효과를 확인하였습니다. 이 연구를 통해 단풍잎의 안토시아닌 성분이 잡초 방제 효과를 갖는다는 것을 확인할 수 있었습니다.
+      단풍잎 추출물이 잡초 방제 효과를 갖는지에 대하여 연구를 진행하였습니다. 가을에 버려지는 단풍잎을 모아 물과 에탄올에 추출한 뒤 잡초씨에 직접 물을 주며 방제 효과를 확인하였습니다. 이 연구를 통해 단풍잎의 안토시아닌 성분이 잡초 방제 효과를 갖는다는 것을 확인할 수 있었습니다.
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
@@ -177,4 +172,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+전북대학교 컴퓨터공학부에 재학 중인 박준영입니다. 게임 제작에 관심을 갖고 있으며 게임업계 취직을 목표로 하고 있습니다. 현재 유니티로 게임을 제작하는 방법을 공부하고 있습니다.

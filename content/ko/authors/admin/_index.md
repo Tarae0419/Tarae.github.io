@@ -99,7 +99,7 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: 기술
     items:
       - name: C#
         description: ''
@@ -121,24 +121,24 @@ skills:
         description: ''
         percent: 40
         icon: devicon/sqldeveloper
-  - name: Hobbies
+  - name: 취미
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Game
+      - name: 게임하기
         description: ''
         percent: 100
         icon: hero/computer-desktop
-      - name: Movie
+      - name: 영화보기
         description: ''
         percent: 70
         icon: hero/film
 languages:
-  - name: Korean
+  - name: 한국어
     percent: 100
-  - name: English
+  - name: 영어
     percent: 60
-  - name: Japanese
+  - name: 일본어
     percent: 30
 
 # Awards.
@@ -175,4 +175,4 @@ awards:
 
 ## About Me
 
-전북대학교 컴퓨터공학부에 재학 중인 박준영입니다. 게임 제작에 관심을 갖고 있으며 게임업계 취직을 목표로 하고 있습니다. 현재 유니티로 게임을 제작하는 방법을 공부하고 있습니다.
+전북대학교 컴퓨터공학부에 재학 중인 박준영입니다. 게임 제작에 관심을 갖고 있으며 게임업계 취직을 목표로 하고 있습니다. 현재 유니티로 게임을 제작하는 방법을 공부하고 있으며 게임 제작 동아리 "GPU"의 회장을 맡고 있습니다. 또한, 경제에 관심이 많아 회계학과를 복수전공하여 회계학을 공부하고 있습니다.

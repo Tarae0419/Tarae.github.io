@@ -52,26 +52,12 @@ education:
     date_end: ''
     summary: |
       컴퓨터공학부에 재학 중이며 컴퓨터공학을 공부하고 있습니다.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
   - area: 회계학과(복수전공)
     institution: 전북대학교
     date_start: 2023-09-01
     date_end: ''
     summary: |
       회계학과를 복수전공하여 회계학을 공부하고 있습니다.
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin

@@ -3,7 +3,7 @@
 title: 박준영
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: 박
@@ -46,10 +46,10 @@ interests:
   - 금융·ICT
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: 컴퓨터공학부
+    institution: 전북대학교
+    date_start: 2020-03-02
+    date_end: 2026-02-21
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:

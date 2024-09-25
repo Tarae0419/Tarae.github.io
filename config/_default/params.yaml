@@ -36,7 +36,7 @@ header:
     show_theme_chooser: true
     logo:
       text: "Home"
-      filename: custom/game
+      filename: "custom/game.svg"
 
 # Site footer
 footer:

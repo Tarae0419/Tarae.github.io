@@ -6,14 +6,17 @@
 ko:
   languageCode: ko
   contentDir: content/ko
+  title: 박준영의 소개 사이트
+  params:
+    description: 박준영의 소개 사이트
 
 # Uncomment the lines below to configure your website in a second language.
 en:
   languageCode: en.us
   contentDir: content/en
-  title: Chinese website title...
+  title: June's introduction site
   params:
-    description: Site description in Chinese...
+    description: June's introduction site
   menu:
     main:
       - name: bio

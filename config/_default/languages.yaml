@@ -17,11 +17,3 @@ en:
   title: June's introduction site
   params:
     description: June's introduction site
-  menu:
-    main:
-      - name: bio
-        url: '/authors/'
-        weight: 1
-      - name: project
-        url: '/project/'
-        weight: 2

@@ -127,16 +127,12 @@ skills:
     items:
       - name: Game
         description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: hero/computer-desktop
+      - name: Movie
         description: ''
-        percent: 80
-        icon: camera
+        percent: 70
+        icon: hero/film
 
 languages:
   - name: Korean

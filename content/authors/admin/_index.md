@@ -3,7 +3,7 @@
 title: 박준영
 
 # Name pronunciation (optional)
-name_pronunciation:
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: 박
@@ -106,14 +106,14 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: C#
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: C++
         description: ''
-        percent: 100
-        icon: chart-bar
+        percent: 70
+        icon: code-bracket
       - name: SQL
         description: ''
         percent: 40
@@ -122,9 +122,9 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Game
         description: ''
-        percent: 60
+        percent: 80
         icon: person-simple-walk
       - name: Cats
         description: ''
@@ -136,25 +136,25 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: Korean
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: English
+    percent: 60
+  - name: Japanese
+    percent: 30
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
+  - title: 전국과학전람회
+    url: https://www.science.go.kr/mps/exhibit/view
+    date: '2018-11-25'
+    awarder: 박준영, 김제훈, 박민수
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+      단풍잎 추출물이 잡초 방제 효과를 갖는지에 대하여 연구를 진행하였습니다. 가을에 버려지는 단풍잎을 모아 물과 에탄올에 추출한 뒤 잡초씨에 직접 물을주며 방제 효과를 확인하였습니다. 이 연구를 통해 단풍잎의 안토시아닌 성분이 잡초 방제 효과를 갖는다는 것을 확인할 수 있었습니다.
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'

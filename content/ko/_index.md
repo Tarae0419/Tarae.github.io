@@ -4,12 +4,17 @@ title: ""
 date: 2022-10-24
 type: landing
 
+design:
+  # Default section spacing
+  spacing: "6rem"
 
 sections:
   - block: resume-biography-3
     content:
+      # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: ""
+      # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
         url: uploads/resume.pdf
@@ -18,44 +23,13 @@ sections:
       background:
         color: black
         image:
+          # Add your image background to `assets/media/`.
           filename: stacked-peaks.svg
           filters:
             brightness: 1.0
           size: cover
           position: center
           parallax: false
-
-  - block: slider
-    content:
-      slides:
-        - title: <span style="font-size:70%">GPU</span>
-          content: <span style="font-size:70%">전북대 게임 개발 동아리</span>
-          align: center
-          background:
-            image:
-              filename: GPULogo.jpg
-              filters:
-                brightness: 0.4
-            position: center
-            color: '#000'
-
-        - title: <span style="font-size:70%">별무리</span>
-          content: <span style="font-size:70%">전북대 천문동아리</span>
-          align: center
-          background:
-            image:
-              filename: StarLogo.jpg
-              filters:
-                brightness: 0.4
-            position: center
-            color: '#000'
-    design:
-      slide_height: '350px'
-      slide_width: '100px'
-      is_fullscreen: false
-      loop: true
-      interval: 3000
-
   - block: collection
     id: papers
     content:

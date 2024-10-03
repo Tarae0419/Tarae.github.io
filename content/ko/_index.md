@@ -46,7 +46,7 @@ sections:
           color: '#000'
 
           - title: <span style="font-size:70%">별무리</span>
-        content: <span style="font-size:70%">전북대 천체 관측 동아리</span>
+        content: <span style="font-size:70%">전북대 천문동아리</span>
         align: center
         background:
           image:
@@ -55,6 +55,12 @@ sections:
               brightness: 0.4
           position: center
           color: '#000'
+
+    design:
+      slide_height: '350px'
+      slide_width: '100px'
+      loop: true
+      interval: 3000
 
 
   - block: markdown

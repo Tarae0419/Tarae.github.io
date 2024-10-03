@@ -30,6 +30,33 @@ sections:
           size: cover
           position: center
           parallax: false
+  - block: slider
+      content:
+        slides:
+
+        - title: <span style="font-size:70%">GPU</span>
+          content: <span style="font-size:70%">전북대 게임 개발 동아리</span>
+          align: center
+          background:
+            image:
+              filename: GPULogo.jpg
+              filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+
+          - title: <span style="font-size:70%">별무리</span>
+        content: <span style="font-size:70%">전북대 천체 관측 동아리</span>
+        align: center
+        background:
+          image:
+            filename: StarLogo.jpg
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+
+
   - block: markdown
     content:
       title: '📚 My Research'

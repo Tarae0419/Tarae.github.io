@@ -6,32 +6,36 @@
 main:
   - name: 약력
     url: /
-    weight: 100
+    weight: 10
 
   - name: papers
     url: /#papers
-    weight: 110
+    weight: 11
 
   - name: Talks
     url: /#talks
-    weight: 120
+    weight: 12
 
   - name: News
     url: /#news
-    weight: 130
+    weight: 13
 
   - name: 경력
     url: experience/
-    weight: 200
+    weight: 20
   - parent: 경력
     name: 동아리
     url: club/
-    weight: 210
+    weight: 21
+  - parent: 경력
+    name: 경력
+    url: experience/
+    weight: 22
 
   - name: 프로젝트
     url: projects/
-    weight: 300
+    weight: 30
 
   - name: 위치
     url: teaching/
-    weight: 400
+    weight: 40

@@ -29,7 +29,7 @@ main:
     weight: 210
   - parent: 경력
     name: 동아리
-    urel: club
+    url: club
     weight: 220
 
   - name: 프로젝트

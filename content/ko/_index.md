@@ -30,28 +30,6 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: slider
-    content:
-      slides:
-        - title: <span style="font-size:70%">GPU</span>
-          content: <span style="font-size:70%">전북대학교 게임 개발 동아리</span>
-          align: center
-          background:
-            image:
-              filename: GPULogo.jpg
-              filters:
-                brightness: 0.4
-            position: center
-            color: '#000'
-    design:
-      # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: '350px'
-      slide_width: '100px'
-      is_fullscreen: false
-      # Automatically transition through slides?
-      loop: true
-      # Duration of transition between slides (in ms)
-      interval: 3000
   - block: collection
     id: papers
     content:

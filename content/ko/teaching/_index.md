@@ -3,7 +3,7 @@ title: Teaching
 type: landing
 
 sections:
-  - block: teaching
+  - block: contact
     content:
       title: teaching
       text: 전북대학교 게임 개발 동아리

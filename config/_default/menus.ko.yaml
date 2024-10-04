@@ -23,6 +23,10 @@ main:
   - name: 경력
     url: experience/
     weight: 200
+  - parent: 경력
+    name: 동아리
+    url: club/
+    weight: 210
 
   - name: 프로젝트
     url: projects/

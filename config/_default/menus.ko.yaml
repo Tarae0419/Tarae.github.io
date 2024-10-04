@@ -17,11 +17,11 @@ main:
     weight: 20
   - parent: 정보
     name: 경력
-    url: /#experience/
+    url: experience/
     weight: 21
   - parent: 정보
     name: 동아리
-    url: /#club/
+    url: club/
     weight: 22
   
   - name: 프로젝트

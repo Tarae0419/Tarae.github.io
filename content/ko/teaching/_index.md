@@ -18,8 +18,8 @@ sections:
       coordinates:
         latitude: '35.84601324617979'
         longitude: '127.13444961966684'
-        directions:
-        autolint: true
+      directions:
+      autolink: true
     design:
       columns: 2
 ---

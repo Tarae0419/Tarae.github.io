@@ -1,5 +1,5 @@
 ---
-title: 'Experience'
+title: '경력'
 date: 2023-10-24
 type: landing
 

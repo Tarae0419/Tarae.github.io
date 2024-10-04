@@ -1,5 +1,5 @@
 ---
-title: 'club'
+title: '동아리'
 date: 2023-10-24
 type: landing
 

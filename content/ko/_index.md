@@ -54,7 +54,7 @@ sections:
         align: center
         background:
           image:
-            filename: Stock.jpg
+            filename: stock.jpg
             filters:
               brightness: 0.4
           position: center

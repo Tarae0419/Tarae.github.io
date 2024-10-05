@@ -1,5 +1,5 @@
 ---
-title: 공부한 책 & 강의
+title: 공부한 책과 강의
 
 # Listing view
 view: community/custom_card

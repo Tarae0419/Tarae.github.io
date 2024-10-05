@@ -24,9 +24,9 @@ organizations:
 bio: I am a computer engineering student at  Jeonbuk National University and have a double major in accounting. I have been interested in game development since I was in high school, so I am still studying game development and aiming to get a job in the game industry.
 
 interests:
-  - 게임 클라이언트
-  - 게임 서버
-  - 금융·ICT
+  - game client
+  - game server
+  - Finance and ICT
 
 education:
   courses:

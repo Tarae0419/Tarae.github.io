@@ -22,7 +22,7 @@ sections:
   - block: features
     id: features
     content:
-      title: <span style="font-size:75%">관심사</span>
+      title: <span style="font-size:75%">interests</span>
       text: Let me introduce my interests!<br><br><br><br>
       items:
         - name: Development

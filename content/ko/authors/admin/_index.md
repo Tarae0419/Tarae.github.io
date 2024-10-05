@@ -34,11 +34,11 @@ interests:
 education:
   courses:
     - course: 회계학과(복수전공)
-    institution: 전북대학교(JBNU)
-    year: 2023 - 2026
+      institution: 전북대학교(JBNU)
+      year: 2023 - 2026
     - course: 컴퓨터공학부
-    institution: 전북대학교(JBNU)
-    year: 2020 - 2026
+      institution: 전북대학교(JBNU)
+      year: 2020 - 2026
 
 social:
   - icon: at-symbol

@@ -4,24 +4,30 @@
   #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Bio
-    url: /
+  - name: about
+    url: about
     weight: 100
+
   - name: profile
     url: /author/박준영/
-    weight: 110
-  - name: Talks
-    url: /#talks
-    weight: 120
-  - name: News
-    url: /#news
-    weight: 130
-  - name: Experience
-    url: experience/
     weight: 200
-  - name: Projects
-    url: project/
+
+  - name: club
+    url: club
     weight: 300
-  - name: 위치
-    url: teaching/
+  
+  - name: study
+    url: myproject
     weight: 400
+  - parent: study
+    name: myproject
+    url: myproject
+    weight: 410
+  - parent: study
+    name: study
+    url: book
+    weight: 420
+
+  - name: info
+    url: info
+    weight: 500

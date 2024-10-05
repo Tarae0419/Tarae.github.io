@@ -114,6 +114,5 @@ sections:
           - constellation
     design:
       view: community/custom_card
-      align: center
       columns: '2'          
 ---

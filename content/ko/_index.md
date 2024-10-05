@@ -29,5 +29,6 @@ sections:
   - block: features
     content:
       title: 박준영의 소개 사이트
-      text: <br> 박준영의 소개 사이트에 오신 것을 환영합니다.<br><br>{{% cta cta_link="./about/" cta_text="See My Profile →" %}}     
+      text: <br> 박준영의 소개 사이트에 오신 것을 환영합니다.<br><br>
+        {{% cta cta_link="./about/" cta_text="See My Profile →" %}}     
 ---

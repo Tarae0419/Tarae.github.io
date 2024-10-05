@@ -105,6 +105,18 @@ sections:
       columns: '2'
   - block: collection
     content:
+      title: 책 & 강의
+      count: 3
+      offset: 0
+      order: desc
+      filters:
+        folders:
+          - book
+    design:
+      view: showcase
+      columns: '2'
+  - block: collection
+    content:
       title: 천체 관측
       count: 3
       offset: 0
@@ -114,5 +126,5 @@ sections:
           - constellation
     design:
       view: community/custom_card
-      columns: '2'          
+      columns: '2'     
 ---

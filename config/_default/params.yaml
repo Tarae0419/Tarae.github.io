@@ -5,8 +5,10 @@
 
 # Appearance
 appearance:
-  mode: system
-  color: emerald
+  theme_night: custom
+  theme_day: custom
+  font: native
+  font_size: L
 
 # SEO
 marketing:
@@ -31,8 +33,9 @@ marketing:
 header:
   navbar:
     enable: true
-    blox: "navbar"
-    fixed_to_top: true
+    show_logo: true
+    show_language: true
+    show_day_night: true
     show_search: true
     show_theme_chooser: true
     logo:

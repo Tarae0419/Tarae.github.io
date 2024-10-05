@@ -64,12 +64,17 @@ locale:
 
 # Site features
 features:
+  syntax_highlighter:
+    enable: true
+    extra_languages:
+      - r
+      - latex
   math:
     enable: false
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/Tarae0419/Tarae.github.io'
     content_dir: content
     branch: main
   avatar:

@@ -18,17 +18,41 @@ sections:
           size: cover
           position: center
           parallax: false
-
-  - block: markdown
-    content:
-      title: About me
-      text: |- 
-        <span class="justified-text" style="color: gray;text-align: justify;">
-          전북대학교 컴퓨터공학부에 재학중인 박준영입니다. 저는 게임 업계를 희망하고 있으며, 동아리를 통해 많은 활동을 진행하고 있습니다. 
-        </span>     
+    
   - block: features
     content:
       title: 박준영의 소개 사이트
       text: <br> 박준영의 소개 사이트에 오신 것을 환영합니다.<br><br>
-        {{% cta cta_link="./about/" cta_text="See My Profile →" %}}     
+        {{% cta cta_link="./about/" cta_text="See My Profile →" %}}
+        
+  - block: features
+    id: features
+    content:
+      title: <span style="font-size:75%">관심사</span>
+      text: <br><br><br><br>
+      items:
+        - name: 개발
+          icon: labtop-code
+          icon_pack: fas
+          description: <span style="font-size:90%">게임 클라이언트 및 서버 개발을 하고 있습니다. </span><br><br>
+        - name: 경제
+          icon: sack-dollar
+          icon_pack: fas
+          description:  <span style="font-size:90%">경제에 관심이 있어 회계학을 복수전공하고 있습니다. </span><br><br>
+        - name: 게임
+          icon: gamepad
+          icon_pack: fas
+          description:  <span style="font-size:90%">게임을 하는 것을 좋아합니다. </span><br><br>
+        - name: 영화
+          icon: film
+          icon_pack: fas
+          description:  <span style="font-size:90%">영화를 보러 영화관에 가는 것을 즐깁니다. </span><br><br>
+        - name: 음악
+          icon: music
+          icon_pack: fas
+          description:  <span style="font-size:90%">음악을 듣는 것을 좋아하며 사람들과 노래방에 가는 것을 좋아합니다. </span><br><br>
+        - name: 음식
+          icon: bowl-food
+          icon_pack: fab
+          description:  <span style="font-size:90%">먹는 것을 좋아해 맛집 탐방을 하는 것을 즐깁니다. </span><br><br>        
 ---

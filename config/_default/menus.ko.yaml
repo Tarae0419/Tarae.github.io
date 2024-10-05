@@ -6,28 +6,28 @@
 main:
   - name: about
     url: about
-    weight: 10
+    weight: 100
 
   - name: profile
     url: /author/박준영/
-    weight: 20
+    weight: 200
 
   - name: 정보
     url: experience
-    weight: 30
+    weight: 300
   - parent: 정보
     name: 경력
     url: experience
-    weight: 31
+    weight: 310
   - parent: 정보
     name: 동아리
     url: club
-    weight: 32
+    weight: 320
   
   - name: study
     url: myproject
-    weight: 40
+    weight: 400
 
   - name: info
     url: info
-    weight: 50
+    weight: 500

@@ -23,22 +23,42 @@ sections:
     content:
       slides:
 
-      - title: <span style="font-size:70%">소개</span>
-        content: <span style="font-size:70%">Interested in MacsLAB?</span>
+      - title: <span style="font-size:70%">개발</span>
+        content: <span style="font-size:70%">게임 클라이언트 및 서버</span>
         align: center
         background:
           image:
-            filename: recruitment.jpg
+            filename: develop.jpg
             filters:
               brightness: 0.4
           position: center
           color: '#000'
         link:
-          icon: user
+          icon: list-chcek
           icon_pack: fas
-          text: <span style="font-size:60%">Join Us</span>
+          text: <span style="font-size:60%">my project</span>
           text-color: '#000'
-          url: contact
+          url: project
+      - title: <span style="font-size:70%">취미</span>
+        content: <span style="font-size:70%">천체 관측</span>
+        align: center
+        background:
+          image:
+            filename: Stars.jpg
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+      - title: <span style="font-size:70%">관심사</span>
+        content: <span style="font-size:70%">경제</span>
+        align: center
+        background:
+          image:
+            filename: Stock.jpg
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
         
   - block: features
     id: features

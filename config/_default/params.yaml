@@ -40,6 +40,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
+      text: ""
       filename: "cat.jpg"
 
 # Site footer

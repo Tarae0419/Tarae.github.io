@@ -12,13 +12,17 @@ main:
     url: /author/박준영/
     weight: 200
 
-  - name: club
+  - name: my club
     url: club
     weight: 300
-  - parent: club
+  - parent: my club
+    name: club
+    url: club
+    weight: 310
+  - parent: my club
     name: constellation
     url: Star
-    weight: 310
+    weight: 320
   
   - name: study
     url: myproject

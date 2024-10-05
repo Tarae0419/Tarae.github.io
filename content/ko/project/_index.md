@@ -2,7 +2,7 @@
 title: project
 
 # Listing view
-view: community/custom_compact
+view: compact
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:

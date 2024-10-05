@@ -2,16 +2,13 @@
 # Display name
 title: 박준영
 
-# Name pronunciation (optional)
-name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: junyeong
 last_name: park
 
-# Status emoji
-status:
-  icon: 🎮
+authors:
+  - admin
 
 # Is this the primary user of the site?
 superuser: true

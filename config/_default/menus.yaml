@@ -20,7 +20,7 @@ main:
     url: experience/
     weight: 200
   - name: Projects
-    url: projects/
+    url: project/
     weight: 300
   - name: 위치
     url: teaching/

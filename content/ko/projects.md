@@ -2,11 +2,9 @@
 title: 프로젝트
 type: landing
 
-cascade:
-  - _target:
-      kind: page
-    params:
-      show_breadcrumb: true
+design:
+  # Section spacing
+  spacing: '5rem'
 
 sections:
   - block: collection

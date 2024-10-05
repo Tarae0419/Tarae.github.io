@@ -25,7 +25,7 @@ main:
     weight: 32
   
   - name: study
-    url: field
+    url: projects
     weight: 40
 
   - name: info

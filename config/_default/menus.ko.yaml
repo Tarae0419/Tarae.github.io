@@ -12,21 +12,21 @@ main:
     url: /author/박준영/
     weight: 200
 
-  - name: 정보
-    url: experience
-    weight: 300
-  - parent: 정보
-    name: 경력
-    url: experience
-    weight: 310
-  - parent: 정보
-    name: 동아리
+  - name: club
     url: club
-    weight: 320
+    weight: 300
   
   - name: study
     url: myproject
     weight: 400
+  - parent: study
+    name: myproject
+    url: myproject
+    weight: 410
+  - parent: study
+    name: study
+    url: book
+    weight: 420
 
   - name: info
     url: info

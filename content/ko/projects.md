@@ -15,5 +15,6 @@ sections:
           - field
     design:
       view: article-grid
+      fill_image: false
       columns: 3
 ---

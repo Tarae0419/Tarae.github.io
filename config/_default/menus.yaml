@@ -8,7 +8,7 @@ main:
     url: /
     weight: 100
   - name: profile
-    url: /author/박준영
+    url: /authors/admin/
     weight: 110
   - name: Talks
     url: /#talks

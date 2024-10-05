@@ -16,9 +16,6 @@ status:
 # Is this the primary user of the site?
 superuser: true
 
-# Highlight the author in author lists? (true/false)
-highlight_name: true
-
 # Role/position/tagline
 role: 전북대학교 재학생
 
@@ -40,7 +37,7 @@ education:
     institution: 전북대학교(JBNU)
     year: 2023 - 2026
     - course: 컴퓨터공학부
-    insitution: 전북대학교(JBNU)
+    institution: 전북대학교(JBNU)
     year: 2020 - 2026
 
 social:

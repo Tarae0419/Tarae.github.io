@@ -38,14 +38,17 @@ education:
       year: 2020 - 2026
 
 social:
-  - icon: at-symbol
-    url: 'Tarae0419@gmail.com'
-    label: E-mail Me
-  - icon: brands/instagram
-    url: https://www.instagram.com/loadin9zoong.s2/
-  - icon: brands/github
+  - icon: envelop
+    icon_pack: fas
+    link: 'Tarae0419@gmail.com'
+  - icon: instagram
+    icon_pack: fab
+    link: https://www.instagram.com/loadin9zoong.s2/
+  - icon: github
+    icon_pack: fab
     url: https://github.com/Tarae-22
-  - icon: brands/github
+  - icon: github
+    icon_pack: fab
     url: https://github.com/Tarae0419
 
 email: 'ingan1357@jbnu.ac.kr'

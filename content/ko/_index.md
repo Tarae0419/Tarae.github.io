@@ -49,7 +49,14 @@ sections:
           icon: bowl-food
           icon_pack: fab
           description:  <span style="font-size:90%">먹는 것을 좋아해 맛집 탐방을 하는 것을 즐깁니다. </span><br><br>     
-          
+  
+  - block: features
+    content:
+      title: "pdf"
+      button:
+        text: Download pdf file
+        url: uploads/resume.pdf
+
   - block: slider
     content:
       slides:

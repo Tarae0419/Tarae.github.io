@@ -111,7 +111,7 @@ sections:
       order: desc
       filters:
         folders:
-          - Star
+          - constellation
     design:
       view: community/custom_card
       align: center

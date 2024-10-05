@@ -1,5 +1,5 @@
 ---
-title: Research Fields
+title: 별무리 활동
 
 # Listing view
 view: community/custom_card
@@ -7,5 +7,5 @@ view: community/custom_card
 # Optional banner image (relative to `assets/media/` folder).
 banner:
   caption: ''
-  image: 'MT.jpg'
+  image: 'mt.jpg'
 ---

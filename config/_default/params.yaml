@@ -40,7 +40,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      filename: "introduce.svg"
+      filename: "cat.jpg"
 
 # Site footer
 footer:

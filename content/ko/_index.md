@@ -49,48 +49,6 @@ sections:
           icon: bowl-food
           icon_pack: fab
           description:  <span style="font-size:90%">먹는 것을 좋아해 맛집 탐방을 하는 것을 즐깁니다. </span><br><br>     
-  
-  - block: features
-    content:
-      title: "pdf"
-      button:
-        text: Download pdf file
-        url: uploads/resume.pdf
-
-  - block: slider
-    content:
-      slides:
-
-      - title: <span style="font-size:70%">개발</span>
-        content: <span style="font-size:70%">게임 클라이언트 및 서버</span>
-        align: center
-        background:
-          image:
-            filename: develop.jpg
-            filters:
-              brightness: 0.4
-          position: center
-          color: '#000'
-      - title: <span style="font-size:70%">취미</span>
-        content: <span style="font-size:70%">천체 관측</span>
-        align: center
-        background:
-          image:
-            filename: Stars.jpg
-            filters:
-              brightness: 0.4
-          position: center
-          color: '#000'
-      - title: <span style="font-size:70%">관심사</span>
-        content: <span style="font-size:70%">경제</span>
-        align: center
-        background:
-          image:
-            filename: stock.jpg
-            filters:
-              brightness: 0.4
-          position: center
-          color: '#000'
 
   - block: collection
     content:
@@ -127,5 +85,40 @@ sections:
           - constellation
     design:
       view: community/custom_card
-      columns: '2'     
+      columns: '2'
+      
+  - block: slider
+    content:
+      slides:
+
+      - title: <span style="font-size:70%">개발</span>
+        content: <span style="font-size:70%">게임 클라이언트 및 서버</span>
+        align: center
+        background:
+          image:
+            filename: develop.jpg
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+      - title: <span style="font-size:70%">취미</span>
+        content: <span style="font-size:70%">천체 관측</span>
+        align: center
+        background:
+          image:
+            filename: Stars.jpg
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+      - title: <span style="font-size:70%">관심사</span>
+        content: <span style="font-size:70%">경제</span>
+        align: center
+        background:
+          image:
+            filename: stock.jpg
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
 ---

@@ -19,17 +19,32 @@ sections:
           position: center
           parallax: false
     
-  - block: features
+  - block: slider
     content:
-      title: 박준영의 소개 사이트
-      text: <br> 박준영의 소개 사이트에 오신 것을 환영합니다.<br><br>
-        {{% cta cta_link="./about/" cta_text="See My Profile →" %}}
+      slides:
+
+      - title: <span style="font-size:70%">소개</span>
+        content: <span style="font-size:70%">Interested in MacsLAB?</span>
+        align: center
+        background:
+          image:
+            filename: recruitment.jpg
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+        link:
+          icon: user
+          icon_pack: fas
+          text: <span style="font-size:60%">Join Us</span>
+          text-color: '#000'
+          url: contact
         
   - block: features
     id: features
     content:
       title: <span style="font-size:75%">관심사</span>
-      text: 저의 관심사를 소개합니다<br><br><br><br>
+      text: 저의 관심사를 소개합니다!<br><br><br><br>
       items:
         - name: 개발
           icon: laptop-code
@@ -43,10 +58,10 @@ sections:
           icon: gamepad
           icon_pack: fas
           description:  <span style="font-size:90%">게임을 하는 것을 좋아합니다. </span><br><br>
-        - name: 영화
-          icon: film
+        - name: 천체 관측
+          icon: star
           icon_pack: fas
-          description:  <span style="font-size:90%">영화를 보러 영화관에 가는 것을 즐깁니다. </span><br><br>
+          description:  <span style="font-size:90%"> 천체 관측을 좋아해 "별무리"라는 동아리에 가입하여 임원진으로 활동하고 있습니다. </span><br><br>
         - name: 음악
           icon: music
           icon_pack: fas
@@ -54,5 +69,20 @@ sections:
         - name: 음식
           icon: bowl-food
           icon_pack: fab
-          description:  <span style="font-size:90%">먹는 것을 좋아해 맛집 탐방을 하는 것을 즐깁니다. </span><br><br>        
+          description:  <span style="font-size:90%">먹는 것을 좋아해 맛집 탐방을 하는 것을 즐깁니다. </span><br><br>     
+          
+ - block: collection
+    content:
+      title: 프로젝트
+      subtitle:
+      text:
+      count: 3
+      offset: 0
+      order: desc
+      filters:
+        folders:
+          - project
+    design:
+      view: community/custom_card
+      columns: '3'          
 ---

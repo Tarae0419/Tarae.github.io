@@ -41,7 +41,7 @@ header:
     show_theme_chooser: true
     logo:
       text: "home"
-      filename: "cat.jpg"
+      filename: "icon.png"
     button:
       enable: true
       text: ""

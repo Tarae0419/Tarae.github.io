@@ -19,7 +19,7 @@ sections:
         align: center
         background:
           image:
-            filename: Game1.jpg
+            filename: game1.jpg
             filters:
               brightness: 0.4
           position: center

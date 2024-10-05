@@ -101,7 +101,7 @@ sections:
       order: desc
       filters:
         folders:
-          - myproject
+          - field
     design:
       view: community/custom_card
       columns: '3'          

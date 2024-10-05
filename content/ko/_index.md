@@ -29,10 +29,10 @@ sections:
     id: features
     content:
       title: <span style="font-size:75%">관심사</span>
-      text: <br><br><br><br>
+      text: 저의 관심사를 소개합니다<br><br><br><br>
       items:
         - name: 개발
-          icon: labtop
+          icon: laptop-code
           icon_pack: fas
           description: <span style="font-size:90%">게임 클라이언트 및 서버 개발을 하고 있습니다. </span><br><br>
         - name: 경제

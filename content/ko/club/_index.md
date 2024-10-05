@@ -1,35 +1,33 @@
 ---
-title: '동아리'
-date: 2023-10-24
+title: "CLub"
 type: landing
 
-design:
-  spacing: '5rem'
-
-# Note: `username` refers to the user's folder name in `content/authors/`
-
-# Page sections
 sections:
-  - block: resume-experience
+  - block: slider
     content:
-      username: admin
+      slides:
+        - title: "GPU"
+          content: "전북대학교 게임 제작 동아리"
+          align: center
+          background:
+            image:
+              filename: "GPULogo.jpg"
+              filters:
+                brightness: 0.5
+            position: center
+            color: '#000'
+        - title: "별무리"
+          content: "전북대학교 천체동아리"
+          align: center
+          background:
+            image:
+              filename: "StarLogo.jpg"
+              filters:
+                brightness: 0.5
+            position: center
+            color: '#000'
     design:
-      # Hugo date format
-      date_format: 'January 2006'
-      # Education or Experience section first?
-      is_education_first: false
-  - block: resume-skills
-    content:
-      title: 기술 & 취미
-      username: admin
-    design:
-      show_skill_percentage: false
-  - block: resume-awards
-    content:
-      title: 수상내역
-      username: admin
-  - block: resume-languages
-    content:
-      title: 언어
-      username: admin
+      slide_height: '300px'
+      loop: true
+      interval: 5000
 ---

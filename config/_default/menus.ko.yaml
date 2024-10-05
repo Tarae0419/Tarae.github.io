@@ -9,7 +9,7 @@ main:
     weight: 10
 
   - name: profile
-    url: /authors/admin/
+    url: /author/박준영/
     weight: 11
 
   - name: 정보

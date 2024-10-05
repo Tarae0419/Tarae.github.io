@@ -1,5 +1,5 @@
 ---
-title: Research Fields
+title: 프로젝트 확인하기
 
 # Listing view
 view: community/custom_card

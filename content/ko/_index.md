@@ -32,7 +32,7 @@ sections:
       text: <br><br><br><br>
       items:
         - name: 개발
-          icon: labtop-code
+          icon: labtop
           icon_pack: fas
           description: <span style="font-size:90%">게임 클라이언트 및 서버 개발을 하고 있습니다. </span><br><br>
         - name: 경제

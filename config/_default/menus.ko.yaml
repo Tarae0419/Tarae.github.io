@@ -8,8 +8,8 @@ main:
     url: about
     weight: 10
 
-  - name: papers
-    url: /#papers
+  - name: profile
+    url: /author/박준영/
     weight: 11
 
   - name: 정보

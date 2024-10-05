@@ -64,12 +64,6 @@ sections:
               brightness: 0.4
           position: center
           color: '#000'
-        link:
-          icon: list-chcek
-          icon_pack: fas
-          text: <span style="font-size:60%">my project</span>
-          text-color: '#000'
-          url: project
       - title: <span style="font-size:70%">취미</span>
         content: <span style="font-size:70%">천체 관측</span>
         align: center

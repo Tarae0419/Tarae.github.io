@@ -1,11 +1,21 @@
 ---
-title: '프로젝트'
+title: 프로젝트
+type: landing
 
-# Listing view
-view: community/custom_card
+cascade:
+  - _target:
+      kind: page
+    params:
+      show_breadcrumb: true
 
-# Optional banner image (relative to `assets/media/` folder).
-banner:
-  caption: ''
-  image: ''
+sections:
+  - block: collection
+    content:
+      title: projecet
+      filters:
+        folders:
+          - field
+    design:
+      view: article-grid
+      columns: 3
 ---

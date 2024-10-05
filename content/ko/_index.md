@@ -105,7 +105,7 @@ sections:
       columns: '2'
   - block: collection
     content:
-      title: 책 & 강의
+      title: 공부한 책 & 강의
       count: 3
       offset: 0
       order: desc

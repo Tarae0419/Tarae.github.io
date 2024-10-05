@@ -16,6 +16,7 @@ marketing:
     org_name: '전북대 박준영'
     description: '본인을 소개하는 웹사이트입니다.'
     twitter: 'GetResearchDev'
+    keywords: ['전북대학교','전북대 박준영','박준영','게임 개발','게임 클라이언트','게임 서버']
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -64,3 +65,7 @@ features:
     url: 'https://github.com/<username>/<repository>'
     content_dir: content
     branch: main
+  map:
+    provider: 'mapnik'
+    api_key: ''
+    zoom: 15

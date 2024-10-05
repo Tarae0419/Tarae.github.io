@@ -94,8 +94,6 @@ sections:
   - block: collection
     content:
       title: 프로젝트
-      subtitle:
-      text:
       count: 3
       offset: 0
       order: desc
@@ -103,7 +101,19 @@ sections:
         folders:
           - myproject
     design:
+      view: compact
+      columns: '2'
+  - block: collection
+    content:
+      title: 천체 관측
+      count: 3
+      offset: 0
+      order: desc
+      filters:
+        folders:
+          - Star
+    design:
       view: community/custom_card
       align: center
-      columns: '3'          
+      columns: '2'          
 ---

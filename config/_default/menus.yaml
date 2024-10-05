@@ -15,6 +15,10 @@ main:
   - name: club
     url: club
     weight: 300
+  - parent: club
+    name: constellation
+    url: Star
+    weight: 310
   
   - name: study
     url: myproject
@@ -24,7 +28,7 @@ main:
     url: myproject
     weight: 410
   - parent: study
-    name: study
+    name: studys
     url: book
     weight: 420
 

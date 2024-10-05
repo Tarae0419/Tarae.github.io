@@ -1,11 +1,11 @@
 ---
 title: 유니티 스터디
 date: 2024-09-23
-external_link: https://github.com/Tarae0419/Unity-Study
-tags:
-  - 유니티 스터디
 ---
-
-동아리에서 진행한 스터디 자료입니다.
-
+동아리에서 제작한 유니티 스터디 자료입니다.
 <!--more-->
+동아리에서 제작한 유니티 스터디 자료입니다. 유니티 에디터 및 스크립트 기초에 관한 내용을 다뤘습니다.
+
+
+[깃허브](https://github.com/Tarae0419/Unity-Study)
+

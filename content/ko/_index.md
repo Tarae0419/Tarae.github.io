@@ -104,5 +104,6 @@ sections:
           - myproject
     design:
       view: community/custom_card
+      align: center
       columns: '3'          
 ---

@@ -91,7 +91,7 @@ sections:
           icon_pack: fab
           description:  <span style="font-size:90%">먹는 것을 좋아해 맛집 탐방을 하는 것을 즐깁니다. </span><br><br>     
           
- - block: collection
+  - block: collection
     content:
       title: 프로젝트
       subtitle:

@@ -6,8 +6,8 @@ title: 박준영
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: 박
-last_name: 준영
+first_name: junyeong
+last_name: park
 
 # Status emoji
 status:
@@ -27,9 +27,23 @@ organizations:
   - name: 전북대학교
     url: https://www.jbnu.ac.kr/kor/
 
-# Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-profiles:
+bio: 전북대학교 컴퓨터공학부에 재학중이며 회계학과를 복수전공하고 있습니다. 고등학생 때부터 게임개발에 흥미를 느껴 아직까지도 게임 개발 공부를 하고 있으며 게임 업계 취업을 목표로 하고 있습니다.
+
+interests:
+  - 게임 클라이언트
+  - 게임 서버
+  - 금융·ICT
+
+education:
+  courses:
+    - course: 회계학과(복수전공)
+    institution: 전북대학교(JBNU)
+    year: 2023 - 2026
+    - course: 컴퓨터공학부
+    insitution: 전북대학교(JBNU)
+    year: 2020 - 2026
+
+social:
   - icon: at-symbol
     url: 'Tarae0419@gmail.com'
     label: E-mail Me
@@ -40,107 +54,11 @@ profiles:
   - icon: brands/github
     url: https://github.com/Tarae0419
 
-interests:
-  - 게임 클라이언트
-  - 게임 서버
-  - 금융·ICT
+email: 'ingan1357@jbnu.ac.kr'
 
-education:
-  - area: 컴퓨터공학부
-    institution: 전북대학교
-    date_start: 2020-03-02
-    date_end: ''
-    summary: |
-      컴퓨터공학부에 재학 중이며 컴퓨터공학을 공부하고 있습니다.
-  - area: 회계학과(복수전공)
-    institution: 전북대학교
-    date_start: 2023-09-01
-    date_end: ''
-    summary: |
-      회계학과를 복수전공하여 회계학을 공부하고 있습니다.
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+highlight_name: true
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: 기술
-    items:
-      - name: C#
-        description: ''
-        percent: 80
-        icon: devicon/csharp
-      - name: Unity
-        description: ''
-        percent: 80
-        icon: devicon/unity
-      - name: C++
-        description: ''
-        percent: 65
-        icon: devicon/cplusplus
-      - name: Unreal Engine
-        description: ''
-        percent: 40
-        icon: devicon/unrealengine
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: devicon/sqldeveloper
-  - name: 취미
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: 게임하기
-        description: ''
-        percent: 100
-        icon: hero/computer-desktop
-      - name: 영화보기
-        description: ''
-        percent: 70
-        icon: hero/film
-languages:
-  - name: 한국어
-    percent: 100
-  - name: 영어
-    percent: 60
-  - name: 일본어
-    percent: 30
-
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: 전국과학전람회
-    url: https://www.science.go.kr/mps/exhibit/view
-    date: '2018-11-25'
-    awarder: 박준영, 김제훈, 박민수
-    icon: coursera
-    summary: |
-      단풍잎 추출물이 잡초 방제 효과를 갖는지에 대하여 연구를 진행하였습니다. 가을에 버려지는 단풍잎을 모아 물과 에탄올에 추출한 뒤 잡초씨에 직접 물을 주며 방제 효과를 확인하였습니다. 이 연구를 통해 단풍잎의 안토시아닌 성분이 잡초 방제 효과를 갖는다는 것을 확인할 수 있었습니다.
+user_groups:
+  -admin
 ---
-
-## 소개
-
-전북대학교 컴퓨터공학부에 재학 중인 박준영입니다. 게임 제작에 관심을 갖고 있으며 게임업계 취직을 목표로 하고 있습니다. 현재 유니티로 게임을 제작하는 방법을 공부하고 있으며 게임 제작 동아리 "GPU"의 회장을 맡고 있습니다. 또한, 경제에 관심이 많아 회계학과를 복수전공하여 회계학을 공부하고 있습니다.
+전북대학교 컴퓨터공학부에 재학 중인 박준영입니다. 게임 제작에 관심을 갖고 있으며 게임업계 취업을 목표로 하고 있습니다. 현재 유니티로 게임을 제작하는 방법을 공부하고 있으며 게임 제작 동아리 "GPU"의 회장을 맡고 있습니다. 또한, 경제에 관심이 많아 회계학과를 복수전공하여 회계학을 공부하고 있습니다.

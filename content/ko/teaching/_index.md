@@ -5,9 +5,10 @@ type: landing
 sections:
   - block: contact
     content:
-      title: teaching
+      title: GPU
       text: 전북대학교 게임 개발 동아리
       email: gpumaster13(at)gmail.com
+      phone: 010-7743-1871
       address:
         street: 전북대학교 공과대학 7호관 7007-2호
         city: 전주시

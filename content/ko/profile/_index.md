@@ -6,7 +6,7 @@ type: landing
 
 sections:
 
-  - block: author
+  - block: about.biography
     content:
       title: ''
       username: admin

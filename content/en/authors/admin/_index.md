@@ -1,6 +1,6 @@
 ---
 # Display name
-title: park junyeong
+title: 박준영
 
 
 # Full name (for SEO)
